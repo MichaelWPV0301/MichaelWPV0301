@@ -1,16 +1,34 @@
-## Hi there 👋
+# Repositório Pessoal de MichaelWPV0301
 
-<!--
-**MichaelWPV0301/MichaelWPV0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório pessoal no GitHub! Aqui você encontrará projetos, estudos e experimentos que desenvolvi ao longo da minha trajetória como estudante de Ciência da Computação e entusiasta de tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência da Computação
+- 💻 Apaixonado por Python e tecnologia
+- 🚀 Sempre aprendendo e buscando novos desafios
+
+## Projetos em destaque
+
+- **Projetos em Python:** Scripts, automações e aplicações desenvolvidas para estudo e prática.
+- **Experimentos em Ciência de Dados:** Notebooks e análises utilizando bibliotecas como Pandas, NumPy e Matplotlib.
+- **Exploração de APIs e Web Scraping:** Exemplos de integração com APIs e coleta de dados da web.
+- **Contribuições Open Source:** Participação em projetos colaborativos.
+
+## Como navegar
+
+- Acesse as pastas para conhecer cada projeto.
+- Leia os arquivos `README.md` de cada subdiretório para informações detalhadas sobre cada solução.
+
+## Como contribuir
+
+Sinta-se à vontade para abrir issues, sugerir melhorias ou contribuir com pull requests. Toda colaboração é bem-vinda!
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- E-mail: seu-email@exemplo.com
+
+---
+
+> “O importante é nunca parar de questionar.” – Albert Einstein
