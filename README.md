@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório pessoal no GitHub! Aqui você encontrará projetos
 
 ## Sobre mim
 
-- 🎓 Estudante de Ciência da Computação
+- 🎓 Estudante de Ciência da Computação pela UFAM
 - 💻 Apaixonado por Python e tecnologia
 - 🚀 Sempre aprendendo e buscando novos desafios
 
@@ -26,8 +26,8 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou contribuir com pull 
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- E-mail: seu-email@exemplo.com
+- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/michael-willian-5a3929301/))
+- E-mail: michael.vieira@icomp.ufam.edu.br
 
 ---
 
